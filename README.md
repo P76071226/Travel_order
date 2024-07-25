@@ -37,7 +37,7 @@ This project is a simple hotel order service built with FastAPI. It includes val
 
 ## Folder Structure
 
-    ```
+    ```sh
     Travel_order/
     ├── main.py
     ├── models/
